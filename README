@@ -1,0 +1,5 @@
+LPC Virtual Serial Stream Example
+=================================
+
+Modified VirtualSerial example and USB libraries from NXPUSBLib to provide support for C FILE streams.
+Note that this requires the use of Newlib or an arm libc which supports cookie based custom streams.
