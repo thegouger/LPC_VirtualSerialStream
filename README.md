@@ -7,8 +7,7 @@ Usage
 -----
 
 Include the modified
-`CDCClassDevice.c`
-`CDCClassDevice.h`
+`CDCClassDevice.c` and `CDCClassDevice.h`
 
 Create a file stream:
 
